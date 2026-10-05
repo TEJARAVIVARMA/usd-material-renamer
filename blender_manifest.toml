@@ -1,0 +1,13 @@
+schema_version = "1.0.0"
+
+id = "usd_material_renamer"
+version = "1.0.0"
+name = "USD Material Renamer"
+tagline = "Renames meshes according to assigned materials for USD pipelines"
+maintainer = "Teja Ravi Varma"
+type = "add-on"
+
+tags = ["Pipeline", "USD", "Materials"]
+blender_version_min = "4.0.0"
+license = ["SPDX:MIT"]
+website = "https://github.com/TEJARAVIVARMA/usd-material-renamer"
